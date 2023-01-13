@@ -1,2 +1,0 @@
-* [Home] (/)
-* [subdir](helld.md)

@@ -1,8 +1,7 @@
-# mermaid support
+# mermaid
 
 ```mermaid
-sequenceDiagram
-Alias->>John: Hello John, how are you?
-John-->>Alice: Great!
-Alice-)John: See you later!
+A-->B: hello
+B->>A: what?
+B-)A: blah
 ```
